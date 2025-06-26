@@ -156,3 +156,5 @@ This Chrome Extension offers a practical and technically robust solution for und
 
 When you click on the extesion on the chrome Browser , Which will show the extension by clivking on that extension we can see that how much time we spend on that tab or window.
 ![Image](https://github.com/user-attachments/assets/b8c74a4b-99ef-4d24-8fea-1a044b3ae197)
+
+![Image](https://github.com/user-attachments/assets/b0e0ba85-8913-4b18-a914-b1e25971d5b6)
