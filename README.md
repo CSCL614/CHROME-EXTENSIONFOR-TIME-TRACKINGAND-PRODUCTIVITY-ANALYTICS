@@ -60,7 +60,7 @@ The extension operates in the background as users browse the internet. It keeps 
     );
 
 # Key Steps After Complition Of Coding:
-1. Open Chrome and go to://extensions/
+1. Open Chrome and go to: chrome://extensions/
 2. Enable Developer Mode (top right).
 3. Click “Load unpacked”.
 4. Select the extension/ folder from your project (D:/INTERNSHIP/TASK4/time-tracker-productivity-app/extension/).
